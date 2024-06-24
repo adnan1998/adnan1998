@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adnan1998
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning frontend
+- 🌱 I’m currently a frontend developer 
 - 📫 Linkdin - https://www.linkedin.com/in/adnan18298/
 
 <!---
